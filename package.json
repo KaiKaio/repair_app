@@ -1,0 +1,15 @@
+{
+  "name": "repair_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "lrz": "^4.9.40",
+    "rsvp": "^4.8.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
